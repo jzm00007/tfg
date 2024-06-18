@@ -1,0 +1,149 @@
+/* CÓDIGO CSS INTERFAZ */
+
+body {
+    background-color: #f2f2f2; 	    /* Color de fondo para toda la página */
+    font-family: Arial, sans-serif; 	 /* Fuente para todo el documento */
+}
+
+
+section {
+    background-color: #ffffff; 	   /* Color de fondo para la sección */
+    border-radius: 10px; 			    /* Bordes redondeados para la sección */
+    padding: 20px; 					    /* Espaciado interno para la sección */
+    margin: 20px auto; 				    /* Margen exterior para centrar la sección */
+    max-width: 800px; 				    /* Ancho máximo para la sección */
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1); 		/* Sombra para la sección */
+    display: flex; 					    /* Alinear elementos en la sección */
+}
+
+
+.estructura {
+    background-color: #ffffff; 	   /* Color de fondo para la sección */
+    border-radius: 10px; 			    /* Bordes redondeados para la sección */
+    padding: 20px; 					    /* Espaciado interno para la sección */
+    margin: 20px auto; 				    /* Margen exterior para centrar la sección */
+    max-width: 1400px; 				    /* Ancho máximo para la sección */
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1); 		/* Sombra para la sección */
+    display: flex; 					    /* Alinear elementos en la sección */
+    flex-direction: column;             /* Establecer la dirección de los elementos como una columna */
+}
+
+
+.titulo {
+    display: flex;                      /* Estructura flexible */
+    align-items: center;                /* Centra los elementos verticalmente */
+    justify-content: space-between;     /* Espacia los elementos horizontalmente */
+    padding-left: 40px;                 /* Añade un poco de margen a la izquierda */
+    padding-right: 40px;                /* Añade un poco de margen a la derecha */
+}
+
+
+.img-left, .img-right {
+    flex-shrink: 0;             /* Evita que las imágenes se reduzcan de tamaño */
+}
+
+
+.text-center {
+    text-align: center;
+    flex-grow: 1;               /* Contenedor de texto ocupa el espacio disponible */
+    padding: 0 20px;            /* Añade un poco de margen para separar el texto de las imágenes */
+    white-space: nowrap;        /* Evita que el texto se divida en varias líneas */
+}
+
+
+.text-center h2 {
+    font-size: 1.5em;           /* Ajustar el tamaño de la fuente según sea necesario */
+}
+
+
+.section-content {
+    flex: 1; 		/* El contenido ocupa el espacio restante */
+}
+
+
+h1, h2, h4 {
+    color: #333333; 		/* Color de los títulos */
+    text-align: center; 	 /* Centrar los títulos */
+}
+
+
+.university-logo {
+    display: block;         /* Ocupa toda la anchura disponible */
+    margin: 20px auto;      /* Margen superior e inferior de 20 píxeles y un margen izquierdo y derecho automáticos */
+    max-width: 200px; 		/* Tamaño máximo del logo */
+}
+
+
+.university-logo {
+    display: block;        
+    margin: 20px auto;      
+    max-width: 200px;       /* Establece el tamaño máximo del logo a 200 píxeles. Esto asegura que el logo no se haga demasiado grande en pantallas más grandes. */
+}
+
+
+button {
+    border-radius: 10px;            /* Bordes redondeados para la sección */
+    background-color: #ffffff;    /* Color de fondo blanco */
+    padding: 5px 10px;              /* Ajuste de relleno */
+    border: 2px solid #000000;    /* Borde inicial */
+    color: #000000;               /* Color del texto */
+    transition: background-color 0.3s, color 0.3s;  /* Animación suave para cambio de color */
+}
+
+
+button:hover {
+    background-color: #000000;      /* Cambia el color de fondo al pasar el cursor sobre el botón */
+    color: white;                   /* Cambia el color del texto al pasar el cursor sobre el botón */
+}
+
+
+footer {
+background-color: #ffffff;    /* Color de fondo blanco */
+padding: 20px 0;                /* Espaciado interno superior e inferior */
+text-align: center;             /* Alineación de texto al centro */
+}
+
+
+.footer-content {
+margin-top: 10px;       /* Espaciado superior */
+}
+
+
+.footer-content p {
+margin-bottom: 10px;    /* Espaciado inferior para el párrafo */
+}
+
+
+.university-logo {
+    width: 200px;       /* Ancho de la imagen del logo */
+    height: auto;       /* Altura automática para mantener la proporción original */
+}
+
+
+.inline {
+    display: inline-block;      /* Establecer la visualización de los elementos en línea */
+    margin-right: 10px;         /* Margen derecho */
+}
+
+
+input[type="radio"] {
+    appearance: none;                   /* Desactivar el cambio en la apariencia predeterminada */
+  
+    border-radius: 50%;                 /* Bordes redondos */
+    width: 16px;                        /* Ancho */
+    height: 16px;                       /* Alto */
+  
+    /* Se establece el color del borde y la transición */
+    border: 2px solid #999;     
+    transition: 0.2s all linear;
+
+    /* Se ajusta el margen y la posición del botón radio */
+    margin-right: 5px;
+    position: relative;
+    top: 4px;
+}
+  
+
+input[type="radio"]:checked {
+    border: 6px solid black;     /* Cambia el grosor y el color del borde cuando está seleccionado */
+}

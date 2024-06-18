@@ -1,0 +1,1213 @@
+Nombres de archivos de test en la carpeta:
+subject102.json
+subject107.json
+subject113.json
+subject129.json
+subject159.json
+subject175.json
+subject181.json
+subject202.json
+subject269.json
+subject330.json
+subject387.json
+
+Archivos de entrenamiento:
+Documento 1: [subject1, 1, 1.0]
+Documento 2: [subject10, 0, 0.4]
+Documento 3: [subject100, 1, 1.0]
+Documento 4: [subject101, 1, 0.5]
+Documento 5: [subject103, 1, 1.0]
+Documento 6: [subject104, 0, 0.0]
+Documento 7: [subject105, 0, 0.0]
+Documento 8: [subject106, 1, 0.7]
+Documento 9: [subject108, 1, 0.8]
+Documento 10: [subject109, 0, 0.4]
+Documento 11: [subject11, 1, 0.9]
+Documento 12: [subject110, 1, 0.8]
+Documento 13: [subject111, 0, 0.3]
+Documento 14: [subject112, 0, 0.3]
+Documento 15: [subject114, 1, 0.9]
+Documento 16: [subject115, 1, 1.0]
+Documento 17: [subject116, 1, 1.0]
+Documento 18: [subject117, 0, 0.1]
+Documento 19: [subject118, 1, 1.0]
+Documento 20: [subject119, 1, 1.0]
+Documento 21: [subject12, 1, 0.9]
+Documento 22: [subject120, 1, 0.8]
+Documento 23: [subject121, 0, 0.2]
+Documento 24: [subject122, 1, 1.0]
+Documento 25: [subject123, 1, 1.0]
+Documento 26: [subject124, 0, 0.3]
+Documento 27: [subject125, 1, 1.0]
+Documento 28: [subject126, 1, 1.0]
+Documento 29: [subject127, 1, 1.0]
+Documento 30: [subject128, 1, 1.0]
+Documento 31: [subject13, 1, 0.9]
+Documento 32: [subject130, 1, 1.0]
+Documento 33: [subject131, 0, 0.1]
+Documento 34: [subject132, 0, 0.2]
+Documento 35: [subject133, 1, 1.0]
+Documento 36: [subject134, 1, 0.9]
+Documento 37: [subject135, 1, 1.0]
+Documento 38: [subject136, 1, 1.0]
+Documento 39: [subject137, 1, 0.8]
+Documento 40: [subject138, 1, 0.9]
+Documento 41: [subject139, 1, 1.0]
+Documento 42: [subject14, 1, 1.0]
+Documento 43: [subject140, 1, 0.6]
+Documento 44: [subject141, 1, 0.8]
+Documento 45: [subject142, 1, 1.0]
+Documento 46: [subject143, 1, 1.0]
+Documento 47: [subject144, 1, 1.0]
+Documento 48: [subject145, 1, 1.0]
+Documento 49: [subject146, 1, 0.9]
+Documento 50: [subject147, 1, 1.0]
+Documento 51: [subject148, 1, 1.0]
+Documento 52: [subject149, 1, 0.5]
+Documento 53: [subject15, 1, 0.9]
+Documento 54: [subject150, 1, 1.0]
+Documento 55: [subject151, 1, 1.0]
+Documento 56: [subject152, 1, 1.0]
+Documento 57: [subject153, 1, 0.9]
+Documento 58: [subject154, 1, 0.7]
+Documento 59: [subject155, 1, 1.0]
+Documento 60: [subject156, 1, 0.8]
+Documento 61: [subject157, 1, 1.0]
+Documento 62: [subject158, 1, 0.9]
+Documento 63: [subject16, 1, 0.9]
+Documento 64: [subject160, 1, 0.9]
+Documento 65: [subject161, 1, 1.0]
+Documento 66: [subject162, 1, 0.8]
+Documento 67: [subject163, 1, 1.0]
+Documento 68: [subject164, 1, 1.0]
+Documento 69: [subject165, 1, 1.0]
+Documento 70: [subject166, 1, 0.8]
+Documento 71: [subject167, 1, 1.0]
+Documento 72: [subject168, 1, 1.0]
+Documento 73: [subject169, 1, 0.9]
+Documento 74: [subject17, 1, 0.9]
+Documento 75: [subject170, 1, 1.0]
+Documento 76: [subject171, 1, 1.0]
+Documento 77: [subject172, 1, 1.0]
+Documento 78: [subject173, 0, 0.4]
+Documento 79: [subject174, 0, 0.0]
+Documento 80: [subject176, 1, 1.0]
+Documento 81: [subject177, 1, 1.0]
+Documento 82: [subject178, 1, 0.7]
+Documento 83: [subject179, 1, 0.5]
+Documento 84: [subject18, 1, 1.0]
+Documento 85: [subject180, 1, 1.0]
+Documento 86: [subject182, 1, 1.0]
+Documento 87: [subject183, 1, 1.0]
+Documento 88: [subject184, 1, 1.0]
+Documento 89: [subject185, 1, 0.8]
+Documento 90: [subject186, 1, 1.0]
+Documento 91: [subject187, 1, 1.0]
+Documento 92: [subject188, 1, 0.9]
+Documento 93: [subject189, 1, 0.9]
+Documento 94: [subject19, 1, 1.0]
+Documento 95: [subject190, 1, 1.0]
+Documento 96: [subject191, 1, 1.0]
+Documento 97: [subject192, 1, 0.9]
+Documento 98: [subject193, 1, 1.0]
+Documento 99: [subject194, 1, 0.9]
+Documento 100: [subject195, 1, 1.0]
+Documento 101: [subject216, 0, 0.4]
+Documento 102: [subject228, 0, 0.0]
+Documento 103: [subject240, 0, 0.0]
+Documento 104: [subject247, 0, 0.0]
+Documento 105: [subject248, 0, 0.3]
+Documento 106: [subject253, 0, 0.1]
+Documento 107: [subject271, 0, 0.2]
+Documento 108: [subject272, 0, 0.0]
+Documento 109: [subject279, 0, 0.2]
+Documento 110: [subject283, 0, 0.2]
+Documento 111: [subject296, 0, 0.2]
+Documento 112: [subject309, 0, 0.4]
+Documento 113: [subject313, 0, 0.1]
+Documento 114: [subject35, 0, 0.0]
+Documento 115: [subject360, 0, 0.1]
+Documento 116: [subject371, 0, 0.1]
+Documento 117: [subject375, 0, 0.0]
+Documento 118: [subject394, 0, 0.1]
+Documento 119: [subject4, 0, 0.2]
+Documento 120: [subject400, 0, 0.4]
+Documento 121: [subject404, 0, 0.0]
+Documento 122: [subject426, 0, 0.2]
+Documento 123: [subject433, 0, 0.4]
+Documento 124: [subject435, 0, 0.3]
+Documento 125: [subject439, 0, 0.4]
+Documento 126: [subject443, 0, 0.1]
+Documento 127: [subject454, 0, 0.2]
+Documento 128: [subject466, 0, 0.3]
+Documento 129: [subject473, 0, 0.4]
+Documento 130: [subject476, 0, 0.4]
+Documento 131: [subject488, 0, 0.0]
+Documento 132: [subject49, 0, 0.3]
+Documento 133: [subject498, 0, 0.4]
+Documento 134: [subject67, 0, 0.0]
+Documento 135: [subject83, 0, 0.1]
+Documento 136: [subject84, 0, 0.3]
+Documento 137: [subject90, 0, 0.3]
+Documento 138: [subject91, 0, 0.3]
+Documento 139: [subject97, 0, 0.2]
+
+CLASIFICACIÓN - TIPO A
+
+SVM - BoW:
+Documento 1: 0
+Documento 2: 0
+Documento 3: 1
+Documento 4: 1
+Documento 5: 0
+Documento 6: 1
+Documento 7: 1
+Documento 8: 1
+Documento 9: 0
+Documento 10: 1
+Documento 11: 1
+
+Métricas:
+Accuracy: 0.5454545454545454
+Precisión: 0.538961038961039
+Recall Ponderada: 0.5454545454545454
+Medida F1 Ponderada: 0.5376845376845377
+
+Verdaderos Negativos - TN: 2
+Falsos Positivos - FP: 3
+Falsos Negativos - FN: 2
+Verdaderos Positivos - TP: 4
+
+SVM - TF-IDF:
+Documento 1: 1
+Documento 2: 0
+Documento 3: 1
+Documento 4: 1
+Documento 5: 1
+Documento 6: 1
+Documento 7: 1
+Documento 8: 0
+Documento 9: 1
+Documento 10: 1
+Documento 11: 1
+
+Métricas:
+Accuracy: 0.7272727272727273
+Precisión: 0.8181818181818182
+Recall Ponderada: 0.7272727272727273
+Medida F1 Ponderada: 0.6961038961038961
+
+Verdaderos Negativos - TN: 2
+Falsos Positivos - FP: 3
+Falsos Negativos - FN: 0
+Verdaderos Positivos - TP: 6
+
+SVM - Word2vec - Skip-gram:
+Documento 1: 1
+Documento 2: 1
+Documento 3: 1
+Documento 4: 1
+Documento 5: 1
+Documento 6: 1
+Documento 7: 1
+Documento 8: 1
+Documento 9: 1
+Documento 10: 1
+Documento 11: 1
+
+Métricas:
+Accuracy: 0.5454545454545454
+Precisión: 0.7520661157024794
+Recall Ponderada: 0.5454545454545454
+Medida F1 Ponderada: 0.3850267379679144
+
+Verdaderos Negativos - TN: 0
+Falsos Positivos - FP: 5
+Falsos Negativos - FN: 0
+Verdaderos Positivos - TP: 6
+
+SVM - Word2vec - CBOW:
+Documento 1: 1
+Documento 2: 1
+Documento 3: 1
+Documento 4: 1
+Documento 5: 1
+Documento 6: 1
+Documento 7: 1
+Documento 8: 1
+Documento 9: 1
+Documento 10: 1
+Documento 11: 1
+
+Métricas:
+Accuracy: 0.5454545454545454
+Precisión: 0.7520661157024794
+Recall Ponderada: 0.5454545454545454
+Medida F1 Ponderada: 0.3850267379679144
+
+Verdaderos Negativos - TN: 0
+Falsos Positivos - FP: 5
+Falsos Negativos - FN: 0
+Verdaderos Positivos - TP: 6
+
+Naive Bayes - BoW:
+Documento 1: 1
+Documento 2: 0
+Documento 3: 1
+Documento 4: 1
+Documento 5: 1
+Documento 6: 1
+Documento 7: 1
+Documento 8: 0
+Documento 9: 1
+Documento 10: 0
+Documento 11: 1
+
+Métricas:
+Accuracy: 0.8181818181818182
+Precisión: 0.8636363636363636
+Recall Ponderada: 0.8181818181818182
+Medida F1 Ponderada: 0.8084415584415584
+
+Verdaderos Negativos - TN: 3
+Falsos Positivos - FP: 2
+Falsos Negativos - FN: 0
+Verdaderos Positivos - TP: 6
+
+Naive Bayes - TF-IDF:
+Documento 1: 1
+Documento 2: 1
+Documento 3: 1
+Documento 4: 1
+Documento 5: 1
+Documento 6: 1
+Documento 7: 1
+Documento 8: 1
+Documento 9: 1
+Documento 10: 1
+Documento 11: 1
+
+Métricas:
+Accuracy: 0.5454545454545454
+Precisión: 0.7520661157024794
+Recall Ponderada: 0.5454545454545454
+Medida F1 Ponderada: 0.3850267379679144
+
+Verdaderos Negativos - TN: 0
+Falsos Positivos - FP: 5
+Falsos Negativos - FN: 0
+Verdaderos Positivos - TP: 6
+
+Árboles de Decisión - BoW:
+Documento 1: 1
+Documento 2: 1
+Documento 3: 1
+Documento 4: 1
+Documento 5: 1
+Documento 6: 0
+Documento 7: 1
+Documento 8: 1
+Documento 9: 0
+Documento 10: 0
+Documento 11: 0
+
+Métricas:
+Accuracy: 0.7272727272727273
+Precisión: 0.7305194805194805
+Recall Ponderada: 0.7272727272727273
+Medida F1 Ponderada: 0.7226107226107227
+
+Verdaderos Negativos - TN: 3
+Falsos Positivos - FP: 2
+Falsos Negativos - FN: 1
+Verdaderos Positivos - TP: 5
+
+Árboles de Decisión - TF-IDF:
+Documento 1: 1
+Documento 2: 0
+Documento 3: 1
+Documento 4: 1
+Documento 5: 1
+Documento 6: 1
+Documento 7: 1
+Documento 8: 0
+Documento 9: 0
+Documento 10: 1
+Documento 11: 0
+
+Métricas:
+Accuracy: 0.9090909090909091
+Precisión: 0.922077922077922
+Recall Ponderada: 0.9090909090909091
+Medida F1 Ponderada: 0.9075369075369075
+
+Verdaderos Negativos - TN: 4
+Falsos Positivos - FP: 1
+Falsos Negativos - FN: 0
+Verdaderos Positivos - TP: 6
+
+Árboles de Decisión - Word2vec - Skip-gram:
+Documento 1: 1
+Documento 2: 1
+Documento 3: 1
+Documento 4: 1
+Documento 5: 1
+Documento 6: 1
+Documento 7: 1
+Documento 8: 0
+Documento 9: 1
+Documento 10: 0
+Documento 11: 0
+
+Métricas:
+Accuracy: 0.8181818181818182
+Precisión: 0.8636363636363636
+Recall Ponderada: 0.8181818181818182
+Medida F1 Ponderada: 0.8084415584415584
+
+Verdaderos Negativos - TN: 3
+Falsos Positivos - FP: 2
+Falsos Negativos - FN: 0
+Verdaderos Positivos - TP: 6
+
+Árboles de Decisión - Word2vec - CBOW:
+Documento 1: 0
+Documento 2: 1
+Documento 3: 0
+Documento 4: 1
+Documento 5: 1
+Documento 6: 1
+Documento 7: 1
+Documento 8: 1
+Documento 9: 0
+Documento 10: 0
+Documento 11: 0
+
+Métricas:
+Accuracy: 0.6363636363636364
+Precisión: 0.6363636363636364
+Recall Ponderada: 0.6363636363636364
+Medida F1 Ponderada: 0.6363636363636364
+
+Verdaderos Negativos - TN: 3
+Falsos Positivos - FP: 2
+Falsos Negativos - FN: 2
+Verdaderos Positivos - TP: 4
+
+Random Forest - BoW:
+Documento 1: 1
+Documento 2: 1
+Documento 3: 1
+Documento 4: 1
+Documento 5: 1
+Documento 6: 1
+Documento 7: 1
+Documento 8: 1
+Documento 9: 0
+Documento 10: 1
+Documento 11: 1
+
+Métricas:
+Accuracy: 0.6363636363636364
+Precisión: 0.7818181818181817
+Recall Ponderada: 0.6363636363636364
+Medida F1 Ponderada: 0.5606060606060606
+
+Verdaderos Negativos - TN: 1
+Falsos Positivos - FP: 4
+Falsos Negativos - FN: 0
+Verdaderos Positivos - TP: 6
+
+Random Forest - TF-IDF:
+Documento 1: 0
+Documento 2: 1
+Documento 3: 1
+Documento 4: 1
+Documento 5: 1
+Documento 6: 1
+Documento 7: 1
+Documento 8: 0
+Documento 9: 1
+Documento 10: 0
+Documento 11: 1
+
+Métricas:
+Accuracy: 0.6363636363636364
+Precisión: 0.6439393939393939
+Recall Ponderada: 0.6363636363636364
+Medida F1 Ponderada: 0.6168831168831169
+
+Verdaderos Negativos - TN: 2
+Falsos Positivos - FP: 3
+Falsos Negativos - FN: 1
+Verdaderos Positivos - TP: 5
+
+Random Forest - Word2vec - Skip-gram:
+Documento 1: 1
+Documento 2: 1
+Documento 3: 1
+Documento 4: 1
+Documento 5: 1
+Documento 6: 0
+Documento 7: 1
+Documento 8: 0
+Documento 9: 0
+Documento 10: 0
+Documento 11: 0
+
+Métricas:
+Accuracy: 0.8181818181818182
+Precisión: 0.8181818181818182
+Recall Ponderada: 0.8181818181818182
+Medida F1 Ponderada: 0.8181818181818182
+
+Verdaderos Negativos - TN: 4
+Falsos Positivos - FP: 1
+Falsos Negativos - FN: 1
+Verdaderos Positivos - TP: 5
+
+Random Forest - Word2vec - CBOW:
+Documento 1: 1
+Documento 2: 1
+Documento 3: 1
+Documento 4: 1
+Documento 5: 1
+Documento 6: 1
+Documento 7: 1
+Documento 8: 0
+Documento 9: 0
+Documento 10: 1
+Documento 11: 0
+
+Métricas:
+Accuracy: 0.8181818181818182
+Precisión: 0.8636363636363636
+Recall Ponderada: 0.8181818181818182
+Medida F1 Ponderada: 0.8084415584415584
+
+Verdaderos Negativos - TN: 3
+Falsos Positivos - FP: 2
+Falsos Negativos - FN: 0
+Verdaderos Positivos - TP: 6
+
+K-vecinos - BoW:
+Documento 1: 1
+Documento 2: 0
+Documento 3: 1
+Documento 4: 0
+Documento 5: 0
+Documento 6: 0
+Documento 7: 0
+Documento 8: 0
+Documento 9: 0
+Documento 10: 0
+Documento 11: 0
+
+Métricas:
+Accuracy: 0.6363636363636364
+Precisión: 0.797979797979798
+Recall Ponderada: 0.6363636363636364
+Medida F1 Ponderada: 0.5974025974025974
+
+Verdaderos Negativos - TN: 5
+Falsos Positivos - FP: 0
+Falsos Negativos - FN: 4
+Verdaderos Positivos - TP: 2
+
+K-vecinos - TF-IDF:
+Documento 1: 1
+Documento 2: 0
+Documento 3: 0
+Documento 4: 1
+Documento 5: 1
+Documento 6: 1
+Documento 7: 1
+Documento 8: 0
+Documento 9: 1
+Documento 10: 1
+Documento 11: 1
+
+Métricas:
+Accuracy: 0.6363636363636364
+Precisión: 0.6439393939393939
+Recall Ponderada: 0.6363636363636364
+Medida F1 Ponderada: 0.6168831168831169
+
+Verdaderos Negativos - TN: 2
+Falsos Positivos - FP: 3
+Falsos Negativos - FN: 1
+Verdaderos Positivos - TP: 5
+
+K-vecinos - Word2vec - Skip-gram:
+Documento 1: 1
+Documento 2: 1
+Documento 3: 1
+Documento 4: 1
+Documento 5: 1
+Documento 6: 0
+Documento 7: 1
+Documento 8: 0
+Documento 9: 1
+Documento 10: 0
+Documento 11: 0
+
+Métricas:
+Accuracy: 0.7272727272727273
+Precisión: 0.7305194805194805
+Recall Ponderada: 0.7272727272727273
+Medida F1 Ponderada: 0.7226107226107227
+
+Verdaderos Negativos - TN: 3
+Falsos Positivos - FP: 2
+Falsos Negativos - FN: 1
+Verdaderos Positivos - TP: 5
+
+K-vecinos - Word2vec - CBOW:
+Documento 1: 0
+Documento 2: 1
+Documento 3: 1
+Documento 4: 1
+Documento 5: 1
+Documento 6: 1
+Documento 7: 1
+Documento 8: 0
+Documento 9: 0
+Documento 10: 0
+Documento 11: 0
+
+Métricas:
+Accuracy: 0.8181818181818182
+Precisión: 0.8181818181818182
+Recall Ponderada: 0.8181818181818182
+Medida F1 Ponderada: 0.8181818181818182
+
+Verdaderos Negativos - TN: 4
+Falsos Positivos - FP: 1
+Falsos Negativos - FN: 1
+Verdaderos Positivos - TP: 5
+
+Logistic Regression - BoW:
+Documento 1: 0
+Documento 2: 0
+Documento 3: 1
+Documento 4: 1
+Documento 5: 0
+Documento 6: 1
+Documento 7: 1
+Documento 8: 1
+Documento 9: 0
+Documento 10: 1
+Documento 11: 1
+
+Métricas:
+Accuracy: 0.5454545454545454
+Precisión: 0.538961038961039
+Recall Ponderada: 0.5454545454545454
+Medida F1 Ponderada: 0.5376845376845377
+
+Verdaderos Positivos - VP: 4
+Falsos Positivos - FP: 3
+Verdaderos Negativos - VN: 2
+Falsos Negativos - FN: 2
+
+Logistic Regression - TF-IDF:
+Documento 1: 1
+Documento 2: 1
+Documento 3: 1
+Documento 4: 1
+Documento 5: 1
+Documento 6: 1
+Documento 7: 1
+Documento 8: 1
+Documento 9: 1
+Documento 10: 1
+Documento 11: 1
+
+Métricas:
+Accuracy: 0.5454545454545454
+Precisión: 0.7520661157024794
+Recall Ponderada: 0.5454545454545454
+Medida F1 Ponderada: 0.3850267379679144
+
+Verdaderos Positivos - VP: 6
+Falsos Positivos - FP: 5
+Verdaderos Negativos - VN: 0
+Falsos Negativos - FN: 0
+
+Logistic Regression - Word2vec - Skip-gram:
+Documento 1: 1
+Documento 2: 1
+Documento 3: 1
+Documento 4: 1
+Documento 5: 1
+Documento 6: 1
+Documento 7: 1
+Documento 8: 1
+Documento 9: 1
+Documento 10: 1
+Documento 11: 1
+
+Métricas:
+Accuracy: 0.5454545454545454
+Precisión: 0.7520661157024794
+Recall Ponderada: 0.5454545454545454
+Medida F1 Ponderada: 0.3850267379679144
+
+Verdaderos Positivos - VP: 6
+Falsos Positivos - FP: 5
+Verdaderos Negativos - VN: 0
+Falsos Negativos - FN: 0
+
+Logistic Regression - Word2vec - CBOW:
+Documento 1: 1
+Documento 2: 1
+Documento 3: 1
+Documento 4: 1
+Documento 5: 1
+Documento 6: 1
+Documento 7: 1
+Documento 8: 1
+Documento 9: 1
+Documento 10: 1
+Documento 11: 1
+
+Métricas:
+Accuracy: 0.5454545454545454
+Precisión: 0.7520661157024794
+Recall Ponderada: 0.5454545454545454
+Medida F1 Ponderada: 0.3850267379679144
+
+Verdaderos Positivos - VP: 6
+Falsos Positivos - FP: 5
+Verdaderos Negativos - VN: 0
+Falsos Negativos - FN: 0
+
+Ensemble - BoW:
+Documento 1: 1
+Documento 2: 0
+Documento 3: 1
+Documento 4: 1
+Documento 5: None
+Documento 6: 1
+Documento 7: 1
+Documento 8: 1
+Documento 9: 0
+Documento 10: None
+Documento 11: 1
+
+Métricas:
+Accuracy: 0.7777777777777778
+Precisión: 0.8412698412698413
+Recall Ponderada: 0.7777777777777778
+Medida F1 Ponderada: 0.7592592592592593
+
+Verdaderos Positivos - VP: 5
+Falsos Positivos - FP: 2
+Verdaderos Negativos - VN: 2
+Falsos Negativos - FN: 0
+
+Ensemble - TF-IDF:
+Documento 1: 1
+Documento 2: None
+Documento 3: 1
+Documento 4: 1
+Documento 5: 1
+Documento 6: 1
+Documento 7: 1
+Documento 8: 0
+Documento 9: 1
+Documento 10: 1
+Documento 11: 1
+
+Métricas:
+Accuracy: 0.7
+Precisión: 0.8
+Recall Ponderada: 0.7
+Medida F1 Ponderada: 0.64
+
+Verdaderos Positivos - VP: 6
+Falsos Positivos - FP: 3
+Verdaderos Negativos - VN: 1
+Falsos Negativos - FN: 0
+
+Ensemble - Word2vec - Skip-gram:
+Documento 1: 1
+Documento 2: 1
+Documento 3: 1
+Documento 4: 1
+Documento 5: 1
+Documento 6: 0
+Documento 7: 1
+Documento 8: 1
+Documento 9: 1
+Documento 10: 0
+Documento 11: 0
+
+Métricas:
+Accuracy: 0.6363636363636364
+Precisión: 0.6439393939393939
+Recall Ponderada: 0.6363636363636364
+Medida F1 Ponderada: 0.6168831168831169
+
+Verdaderos Positivos - VP: 5
+Falsos Positivos - FP: 3
+Verdaderos Negativos - VN: 2
+Falsos Negativos - FN: 1
+
+Ensemble - Word2vec - CBOW:
+Documento 1: 1
+Documento 2: 1
+Documento 3: 1
+Documento 4: 1
+Documento 5: 1
+Documento 6: 0
+Documento 7: 1
+Documento 8: 0
+Documento 9: 1
+Documento 10: 0
+Documento 11: 0
+
+Métricas:
+Accuracy: 0.7272727272727273
+Precisión: 0.7305194805194805
+Recall Ponderada: 0.7272727272727273
+Medida F1 Ponderada: 0.7226107226107227
+
+Verdaderos Positivos - VP: 5
+Falsos Positivos - FP: 2
+Verdaderos Negativos - VN: 3
+Falsos Negativos - FN: 1
+
+REGRESIÓN - TIPO B
+
+SVM - BoW:
+Documento 1: 0.057082083188278065
+Documento 2: 0.6686619466025849
+Documento 3: 1.397471833845203
+Documento 4: 0.6622594404937012
+Documento 5: 0.48175137889151765
+Documento 6: 0.7247804268093179
+Documento 7: 0.7735795223891117
+Documento 8: 0.5604250623136963
+Documento 9: 0.3445639241053643
+Documento 10: 0.7295148392921141
+Documento 11: 0.6381261582214449
+
+Métricas:
+R²: -0.27494789444537515
+Error Cuadrático Medio - MSE 0.1274947894445375
+Error Absoluto Medio - MAE: 0.32145734645503093
+
+SVM - TF-IDF:
+Documento 1: 0.5847880445062579
+Documento 2: 0.45391333866921996
+Documento 3: 0.8596969398168408
+Documento 4: 0.7512754060130579
+Documento 5: 0.6701139343101892
+Documento 6: 0.698339172153192
+Documento 7: 0.7791399541724019
+Documento 8: 0.3846439625503121
+Documento 9: 0.47269537928317584
+Documento 10: 0.6684441658176178
+Documento 11: 0.7480312196438471
+
+Métricas:
+R²: 0.31837814614621884
+Error Cuadrático Medio - MSE 0.0681621853853781
+Error Absoluto Medio - MAE: 0.21929369203177754
+
+SVM - Word2vec - Skip-gram:
+Documento 1: 0.8042224513073991
+Documento 2: 0.8003066508704227
+Documento 3: 0.7955403748132446
+Documento 4: 0.7987555174367285
+Documento 5: 0.8092039813970903
+Documento 6: 0.7876801791474044
+Documento 7: 0.8009182067919111
+Documento 8: 0.7859525371434294
+Documento 9: 0.7952985210905511
+Documento 10: 0.7989724570730933
+Documento 11: 0.7690547093516888
+
+Métricas:
+R²: -0.8538260208006849
+Error Cuadrático Medio - MSE 0.18538260208006846
+Error Absoluto Medio - MAE: 0.3506648910839107
+
+SVM - Word2vec - CBOW:
+Documento 1: 0.8570390325176497
+Documento 2: 0.8022301142519263
+Documento 3: 0.7574821762480742
+Documento 4: 0.791052128876807
+Documento 5: 0.8713238898055463
+Documento 6: 0.7379852036480642
+Documento 7: 0.7868469402631199
+Documento 8: 0.6646246958963639
+Documento 9: 0.7668944223820059
+Documento 10: 0.831039951364075
+Documento 11: 0.6624475845459797
+
+Métricas:
+R²: -0.6917857111895362
+Error Cuadrático Medio - MSE 0.1691785711189536
+Error Absoluto Medio - MAE: 0.339263411777259
+
+Árboles de Decisión - BoW:
+Documento 1: 0.7
+Documento 2: 0.8
+Documento 3: 0.8
+Documento 4: 1.0
+Documento 5: 1.0
+Documento 6: 0.9
+Documento 7: 1.0
+Documento 8: 0.9
+Documento 9: 0.0
+Documento 10: 0.4
+Documento 11: 0.10000000000000002
+
+Métricas:
+R²: -0.3727272727272728
+Error Cuadrático Medio - MSE 0.13727272727272727
+Error Absoluto Medio - MAE: 0.2818181818181818
+
+Árboles de Decisión - TF-IDF:
+Documento 1: 0.2
+Documento 2: 0.4
+Documento 3: 0.9
+Documento 4: 1.0
+Documento 5: 1.0
+Documento 6: 0.3
+Documento 7: 1.0
+Documento 8: 0.0
+Documento 9: 0.0
+Documento 10: 0.0
+Documento 11: 0.4
+
+Métricas:
+R²: 0.22727272727272707
+Error Cuadrático Medio - MSE 0.07727272727272728
+Error Absoluto Medio - MAE: 0.24545454545454543
+
+Árboles de Decisión - Word2vec - Skip-gram:
+Documento 1: 1.0
+Documento 2: 1.0
+Documento 3: 0.2
+Documento 4: 1.0
+Documento 5: 0.8
+Documento 6: 0.8
+Documento 7: 0.9000000000000001
+Documento 8: 0.9
+Documento 9: 0.4
+Documento 10: 0.2
+Documento 11: 0.1
+
+Métricas:
+R²: -1.4181818181818184
+Error Cuadrático Medio - MSE 0.24181818181818182
+Error Absoluto Medio - MAE: 0.38181818181818183
+
+Árboles de Decisión - Word2vec - CBOW:
+Documento 1: 0.4
+Documento 2: 1.0
+Documento 3: 1.0
+Documento 4: 0.20000000000000004
+Documento 5: 0.3
+Documento 6: 0.0
+Documento 7: 0.20000000000000004
+Documento 8: 0.9
+Documento 9: 1.0
+Documento 10: 1.0
+Documento 11: 0.4000000000000001
+
+Métricas:
+R²: -2.6999999999999997
+Error Cuadrático Medio - MSE 0.36999999999999994
+Error Absoluto Medio - MAE: 0.5181818181818181
+
+Random Forest - BoW:
+Documento 1: 0.6439999999999998
+Documento 2: 0.6854999999999996
+Documento 3: 0.8365000000000004
+Documento 4: 0.9580000000000005
+Documento 5: 0.8105000000000001
+Documento 6: 0.5205000000000002
+Documento 7: 0.9385000000000003
+Documento 8: 0.5520000000000003
+Documento 9: 0.22499999999999992
+Documento 10: 0.5800000000000005
+Documento 11: 0.4324999999999999
+
+Métricas:
+R²: 0.22078136363636391
+Error Cuadrático Medio - MSE 0.07792186363636361
+Error Absoluto Medio - MAE: 0.2153636363636364
+
+Random Forest - TF-IDF:
+Documento 1: 0.7885000000000002
+Documento 2: 0.5019999999999999
+Documento 3: 0.9500000000000006
+Documento 4: 0.9105000000000004
+Documento 5: 0.8815000000000011
+Documento 6: 0.5125
+Documento 7: 0.9390000000000004
+Documento 8: 0.29899999999999993
+Documento 9: 0.25249999999999995
+Documento 10: 0.43349999999999994
+Documento 11: 0.3690000000000002
+
+Métricas:
+R²: 0.5149940909090905
+Error Cuadrático Medio - MSE 0.04850059090909094
+Error Absoluto Medio - MAE: 0.16481818181818192
+
+Random Forest - Word2vec - Skip-gram:
+Documento 1: 0.7610000000000008
+Documento 2: 0.8095000000000004
+Documento 3: 0.6670000000000006
+Documento 4: 0.8280000000000004
+Documento 5: 0.8340000000000005
+Documento 6: 0.5575000000000003
+Documento 7: 0.7170000000000009
+Documento 8: 0.4214999999999997
+Documento 9: 0.431
+Documento 10: 0.40350000000000036
+Documento 11: 0.35399999999999976
+
+Métricas:
+R²: 0.05801181818181744
+Error Cuadrático Medio - MSE 0.09419881818181824
+Error Absoluto Medio - MAE: 0.21627272727272737
+
+Random Forest - Word2vec - CBOW:
+Documento 1: 0.6370000000000002
+Documento 2: 0.717500000000001
+Documento 3: 0.6350000000000002
+Documento 4: 0.8155000000000006
+Documento 5: 0.722
+Documento 6: 0.4089999999999999
+Documento 7: 0.5985000000000005
+Documento 8: 0.4825000000000002
+Documento 9: 0.5300000000000002
+Documento 10: 0.49750000000000016
+Documento 11: 0.26299999999999973
+
+Métricas:
+R²: 0.05428249999999846
+Error Cuadrático Medio - MSE 0.09457175000000015
+Error Absoluto Medio - MAE: 0.2292272727272728
+
+K-vecinos - BoW:
+Documento 1: 0.575
+Documento 2: 0.5874999999999999
+Documento 3: 0.7000000000000001
+Documento 4: 0.30000000000000004
+Documento 5: 0.475
+Documento 6: 0.47500000000000003
+Documento 7: 0.3125
+Documento 8: 0.4
+Documento 9: 0.275
+Documento 10: 0.6
+Documento 11: 0.26250000000000007
+
+Métricas:
+R²: -0.04701704545454555
+Error Cuadrático Medio - MSE 0.10470170454545454
+Error Absoluto Medio - MAE: 0.27386363636363636
+
+K-vecinos - TF-IDF:
+Documento 1: 0.9125000000000001
+Documento 2: 0.6000000000000001
+Documento 3: 0.5875
+Documento 4: 0.875
+Documento 5: 0.9125000000000001
+Documento 6: 0.7625000000000001
+Documento 7: 0.8
+Documento 8: 0.47500000000000003
+Documento 9: 0.8999999999999999
+Documento 10: 0.875
+Documento 11: 0.8875
+
+Métricas:
+R²: -0.8580965909090912
+Error Cuadrático Medio - MSE 0.1858096590909091
+Error Absoluto Medio - MAE: 0.3602272727272728
+
+K-vecinos - Word2vec - Skip-gram:
+Documento 1: 0.6375
+Documento 2: 0.8875
+Documento 3: 0.925
+Documento 4: 0.8374999999999999
+Documento 5: 0.75
+Documento 6: 0.575
+Documento 7: 0.95
+Documento 8: 0.3625
+Documento 9: 0.8625
+Documento 10: 0.5125
+Documento 11: 0.47500000000000003
+
+Métricas:
+R²: -0.4616477272727275
+Error Cuadrático Medio - MSE 0.14616477272727274
+Error Absoluto Medio - MAE: 0.26363636363636367
+
+K-vecinos - Word2vec - CBOW:
+Documento 1: 0.525
+Documento 2: 0.875
+Documento 3: 0.825
+Documento 4: 0.7625
+Documento 5: 0.8625
+Documento 6: 0.8624999999999999
+Documento 7: 0.775
+Documento 8: 0.3625
+Documento 9: 0.5875
+Documento 10: 0.5125
+Documento 11: 0.5625
+
+Métricas:
+R²: -0.111221590909091
+Error Cuadrático Medio - MSE 0.1111221590909091
+Error Absoluto Medio - MAE: 0.23977272727272728
+
+Logistic Regression - BoW:
+Documento 1: 0.2
+Documento 2: 1.0
+Documento 3: 1.0
+Documento 4: 1.0
+Documento 5: 0.2
+Documento 6: 0.9
+Documento 7: 1.0
+Documento 8: 0.8
+Documento 9: 0.4
+Documento 10: 0.3
+Documento 11: 0.8
+
+Métricas:
+R²: -1.1545454545454548
+Error Cuadrático Medio - MSE 0.21545454545454545
+Error Absoluto Medio - MAE: 0.3727272727272727
+
+Logistic Regression - TF-IDF:
+Documento 1: 1.0
+Documento 2: 1.0
+Documento 3: 1.0
+Documento 4: 1.0
+Documento 5: 1.0
+Documento 6: 1.0
+Documento 7: 1.0
+Documento 8: 1.0
+Documento 9: 1.0
+Documento 10: 1.0
+Documento 11: 1.0
+
+Métricas:
+R²: -2.5000000000000004
+Error Cuadrático Medio - MSE 0.35000000000000003
+Error Absoluto Medio - MAE: 0.5
+
+Logistic Regression - Word2vec - Skip-gram:
+Documento 1: 1.0
+Documento 2: 1.0
+Documento 3: 1.0
+Documento 4: 1.0
+Documento 5: 1.0
+Documento 6: 1.0
+Documento 7: 1.0
+Documento 8: 1.0
+Documento 9: 1.0
+Documento 10: 1.0
+Documento 11: 1.0
+
+Métricas:
+R²: -2.5000000000000004
+Error Cuadrático Medio - MSE 0.35000000000000003
+Error Absoluto Medio - MAE: 0.5
+
+Logistic Regression - Word2vec - CBOW:
+Documento 1: 1.0
+Documento 2: 1.0
+Documento 3: 1.0
+Documento 4: 1.0
+Documento 5: 1.0
+Documento 6: 1.0
+Documento 7: 1.0
+Documento 8: 1.0
+Documento 9: 1.0
+Documento 10: 1.0
+Documento 11: 1.0
+
+Métricas:
+R²: -2.5000000000000004
+Error Cuadrático Medio - MSE 0.35000000000000003
+Error Absoluto Medio - MAE: 0.5
+
+Ensemble - BoW:
+Documento 1: 0.4952164166376557
+Documento 2: 0.7883323893205169
+Documento 3: 0.9867943667690409
+Documento 4: 0.7840518880987404
+Documento 5: 0.5934502757783037
+Documento 6: 0.6840560853618636
+Documento 7: 0.8049159044778225
+Documento 8: 0.6424850124627394
+Documento 9: 0.38891278482107283
+Documento 10: 0.5219029678584228
+Documento 11: 0.446625231644289
+
+Métricas:
+R²: 0.058509461239327876
+Error Cuadrático Medio - MSE 0.0941490538760672
+Error Absoluto Medio - MAE: 0.21360047799447812
+
+Ensemble - TF-IDF:
+Documento 1: 0.7171576089012517
+Documento 2: 0.591182667733844
+Documento 3: 0.8594393879633682
+Documento 4: 0.9073550812026117
+Documento 5: 0.872822786862038
+Documento 6: 0.6546678344306385
+Documento 7: 0.9036279908344804
+Documento 8: 0.4317287925100624
+Documento 9: 0.5250390758566351
+Documento 10: 0.5953888331635235
+Documento 11: 0.6809062439287695
+
+Métricas:
+R²: 0.15123937361806472
+Error Cuadrático Medio - MSE 0.08487606263819353
+Error Absoluto Medio - MAE: 0.2373728962362918
+
+Ensemble - Word2vec - Skip-gram:
+Documento 1: 0.8357849522532204
+Documento 2: 0.914564956438998
+Documento 3: 0.9348414266963594
+Documento 4: 0.879384523008822
+Documento 5: 0.8883140835566179
+Documento 6: 0.704824948214698
+Documento 7: 0.8938527665243015
+Documento 8: 0.5440441035102717
+Documento 9: 0.5688081587178526
+Documento 10: 0.5856732216569818
+Documento 11: 0.5883001689207967
+
+Métricas:
+R²: -0.36705664057005594
+Error Cuadrático Medio - MSE 0.13670566405700557
+Error Absoluto Medio - MAE: 0.2736310372807779
+
+Ensemble - Word2vec - CBOW:
+Documento 1: 0.6271831539865378
+Documento 2: 0.8632355349821506
+Documento 3: 0.883150128204073
+Documento 4: 0.6780560896771186
+Documento 5: 0.8775535183974259
+Documento 6: 0.5315422732318936
+Documento 7: 0.6989387180932117
+Documento 8: 0.6992617232597179
+Documento 9: 0.6503040912472828
+Documento 10: 0.613305275981338
+Documento 11: 0.503351490149555
+
+Métricas:
+R²: -0.3703576270062958
+Error Cuadrático Medio - MSE 0.13703576270062956
+Error Absoluto Medio - MAE: 0.2854895468167395

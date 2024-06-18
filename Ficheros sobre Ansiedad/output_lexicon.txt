@@ -1,0 +1,87 @@
+Clasificación con Lexicón Propio
+
+Ficheros de ansiedad:
+- subject102.json
+- subject107.json
+- subject113.json
+
+Ficheros no de ansiedad:
+- subject129.json
+- subject159.json
+- subject175.json
+- subject181.json
+- subject202.json
+- subject269.json
+- subject330.json
+- subject387.json
+
+Métricas:
+Accuracy: 0.36363636363636365
+Precisión: 0.553030303030303
+Recall Ponderada: 0.36363636363636365
+Medida F1 Ponderada: 0.36363636363636365
+
+Verdaderos Positivos - VP: 2
+Falsos Positivos - FP: 1
+Verdaderos Negativos - VN: 2
+Falsos Negativos - FN: 6
+
+
+Clasificación con Lexicón Proporcionado - Palabras de ansiedad
+
+Ficheros de ansiedad:
+- subject102.json
+- subject107.json
+- subject202.json
+- subject330.json
+
+Ficheros no de ansiedad:
+- subject113.json
+- subject129.json
+- subject159.json
+- subject175.json
+- subject181.json
+- subject269.json
+- subject387.json
+
+Métricas:
+Accuracy: 0.2727272727272727
+Precisión: 0.4025974025974026
+Recall Ponderada: 0.2727272727272727
+Medida F1 Ponderada: 0.29696969696969694
+
+Verdaderos Positivos - VP: 2
+Falsos Positivos - FP: 2
+Verdaderos Negativos - VN: 1
+Falsos Negativos - FN: 6
+
+
+Clasificación con Lexicón Proporcionado - Palabras negativas
+
+Ficheros de ansiedad:
+- subject102.json
+- subject107.json
+- subject113.json
+- subject330.json
+
+Ficheros no de ansiedad:
+- subject129.json
+- subject159.json
+- subject175.json
+- subject181.json
+- subject202.json
+- subject269.json
+- subject387.json
+
+Métricas:
+Accuracy: 0.2727272727272727
+Precisión: 0.4025974025974026
+Recall Ponderada: 0.2727272727272727
+Medida F1 Ponderada: 0.29696969696969694
+
+Verdaderos Positivos - VP: 2
+Falsos Positivos - FP: 2
+Verdaderos Negativos - VN: 1
+Falsos Negativos - FN: 6
+
+

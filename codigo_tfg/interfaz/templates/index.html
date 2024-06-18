@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <!-- Required meta tags -->
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        
+        <title>TFG</title>  <!-- Titulo -->
+        
+        <link rel="stylesheet" href="{{ url_for('static', filename='css/estilos.css') }}">  <!-- Enlace al archivo CSS externo -->
+    </head>
+    <body>
+        <section class="titulo">
+            <div class="img-left">
+                <img src="{{ url_for('static', filename='img/ansiedad.jpg') }}" alt="Ansiedad" style="max-width: 150px; border-radius: 10px;">
+            </div>
+            <div class="text-center">
+                <h1>TRABAJO FIN DE GRADO</h1>
+                <h2>Detección de Ansiedad en Redes Sociales</h2>
+            </div>
+            <div class="img-right">
+                <img src="{{ url_for('static', filename='img/no_ansiedad.avif') }}" alt="No ansiedad" style="max-width: 150px; border-radius: 10px;">
+            </div>
+        </section>
+        
+        
+
+        <section class="estructura">
+            <p style="text-align: center;margin: 50px;">
+                La <b>ansiedad</b> es un trastorno común que afecta a millones de personas en todo el mundo. <br><br>
+                Se caracteriza por sentimientos de preocupación, nerviosismo o miedo intensos que pueden interferir con la vida diaria. <br><br>
+                Este Trabajo de Fin de Grado (TFG) investiga cómo detectar ansiedad en redes sociales y proporcionar apoyo temprano a los usuarios.
+            </p>      
+
+
+            <!-- Algoritmos Supervisados de Clasificación -->
+            <h2><b>Algoritmos Supervisados de Clasificación</b></h2>
+
+            <form action="/algoritmo_clasificacion" method="post" enctype="multipart/form-data" onsubmit="return checkFileInputs()" style="margin-left: 50px">
+                
+                <!-- Algoritmos a seleccionar -->
+                <label for="algoritmo"><b>Selecciona un algoritmo:</b></label>
+                <select id="algoritmosClasificacion" name="algoritmo">
+                    <option value="svm_c">SVM</option>
+                    <option value="nb_c">Naive Bayes</option>
+                    <option value="tree_c">Árboles de decisión</option>
+                    <option value="rf_c">Random Forest</option>
+                    <option value="knn_c">K–vecinos</option>
+                    <option value="lr_c">Logistic Regression</option>
+                    <option value="ensemble_c">Ensemble</option>
+                </select>
+                
+                <br><br>
+
+                <!-- Procesos de vectorización -->
+                <label><b>Selecciona un método de vectorización:</b></label>
+                <div>
+                    <div class="inline">
+                        <input type="radio" id="bow_c" name="vectorizacion" value="bow_c" color="red">
+                        <label for="bow">Bag–Of–Words</label>
+                    </div>
+                    <div class="inline">
+                        <input type="radio" id="tfidf_c" name="vectorizacion" value="tfidf_c" checked>
+                        <label for="tfidf">TF–IDF</label>
+                    </div>
+                    <div class="inline">
+                        <input type="radio" id="w2v_sg_c" name="vectorizacion" value="w2v_sg_c">
+                        <label for="w2v_sg">Word2Vec – Skip-Gram</label>
+                    </div>
+                    <div class="inline">
+                        <input type="radio" id="w2v_cbow_c" name="vectorizacion" value="w2v_cbow_c">
+                        <label for="w2v_cbow">Word2Vec – CBOW</label>
+                    </div>
+                </div>
+
+                <!-- Ficheros a Evaluar -->
+                <br>
+                <label for="fileInput"><b>Introducir ficheros a analizar:</b></label>
+                <input type="file" name="files" id="fileInput1" multiple>
+                <p id="selectedFiles1" tyle="margin-left: 50px;"></p>        <!-- Mostrar ficheros -->
+
+                <button type="submit">Confirmar</button>
+            </form>
+
+            <!-- Mostrar resultados tras evaluación ficheros -->
+            {{ prediction_clasificacion|safe }}
+            <br><br>
+
+
+
+
+            <!-- Algoritmos Supervisados de Regresión -->
+            <h2><b>Algoritmos Supervisados de Regresión</b></h2>
+
+            <form action="/algoritmo_regresion" method="post" enctype="multipart/form-data" onsubmit="return checkFileInputs()" style="margin-left: 50px;">
+                
+                <!-- Algoritmos a seleccionar -->
+                <label for="algoritmo"><b>Selecciona un algoritmo:</b></label>
+                <select id="algoritmosRegresion" name="algoritmo">
+                    <option value="svm_r">SVM</option>
+                    <option value="tree_r">Árboles de decisión</option>
+                    <option value="rf_r">Random Forest</option>
+                    <option value="knn_r">K–vecinos</option>
+                    <option value="lr_r">Logistic Regression</option>
+                    <option value="ensemble_r">Ensemble</option>
+                </select>
+
+                <br><br>
+
+                <!-- Procesos de vectorización -->
+                <label><b>Selecciona un método de vectorización:</b></label>
+                <div>
+                    <div class="inline">
+                        <input type="radio" id="bow_r" name="vectorizacion" value="bow_r">
+                        <label for="bow">Bag–Of–Words</label>
+                    </div>
+                    <div class="inline">
+                        <input type="radio" id="tfidf_r" name="vectorizacion" value="tfidf_r" checked>
+                        <label for="tfidf">TF–IDF</label>
+                    </div>
+                    <div class="inline">
+                        <input type="radio" id="w2v_sg_r" name="vectorizacion" value="w2v_sg_r">
+                        <label for="w2v_sg">Word2Vec – Skip-Gram</label>
+                    </div>
+                    <div class="inline">
+                        <input type="radio" id="w2v_cbow_r" name="vectorizacion" value="w2v_cbow_r">
+                        <label for="w2v_cbow">Word2Vec – CBOW</label>
+                    </div>
+                </div>
+
+                <!-- Ficheros a Evaluar -->
+                <br>
+                <label for="fileInput"><b>Introducir ficheros a analizar:</b></label>
+                <input type="file" name="files" id="fileInput2" multiple>
+                <p id="selectedFiles2" tyle="margin-left: 50px;"></p>        <!-- Mostrar ficheros -->
+
+                <button type="submit">Confirmar</button>
+            </form>
+
+            <!-- Mostrar resultados tras evaluación ficheros -->
+            {{ prediction_regresion|safe }}
+            <br><br>
+
+
+
+
+            <!-- Lexicones de Palabras -->
+            <h2><b>Lexicones de Palabras</b></h2>
+            <form action="/lexicones" method="post" enctype="multipart/form-data" onsubmit="return checkFileInputs()" style="margin-left: 50px;">
+                
+                <!-- Lexicon a seleccionar -->
+                <label for="algoritmo"><b>Selecciona un algoritmo:</b></label>
+                <select id="lexicones" name="algoritmo">
+                    <option value="lex_propio">Lexicón Propio</option>
+                    <option value="lex_ans">Lexicón proporcionado  – Listado palabras ansiedad</option>
+                    <option value="lex_neg">Lexicón proporcionado  – Listado palabras negativas</option>
+                </select>
+
+                <!-- Ficheros a Evaluar -->
+                <br><br>
+                <label for="fileInput"><b>Introducir ficheros a analizar:</b></label>
+                <input type="file" name="files" id="fileInput3" multiple>
+                <p id="selectedFiles3" tyle="margin-left: 50px;"></p>        <!-- Mostrar ficheros -->
+
+                <button type="submit">Confirmar</button>
+            </form>
+
+            <!-- Mostrar resultados tras evaluación ficheros -->
+            {{ prediction_lexicon|safe }}
+            <br>
+
+        </section>
+        
+
+        <!-- Información personal -->
+        <section>
+            <div>
+                <img src="{{ url_for('static', filename='img/Foto.jpg') }}" alt="Foto de Jesús Zafra Moreno" style="max-width: 150px; border-radius: 10px; margin-right: 20px;">
+            </div>
+            <div class="section-content">
+                <h4 style="font-size: 22px; margin-bottom: 15px;"><b>Grado en Ingeniería Infomática - Universidad de Jaén</b></h4>
+                <p>
+                    <b>Nombre: </b> Jesús Zafra Moreno
+                </p>
+                <p>
+                    <b>Correo Electrónico: </b> jzm00007@red.ujaen.es
+                </p>
+            </div>
+        </section>
+
+        <!-- Pie de página -->
+        <footer>
+            <div style="text-align: center; margin-top: 10px;">
+                <p>Proyecto revisado por la Universidad de Jaén</p>
+                <img src="{{ url_for('static', filename='img/UJA.png') }}" alt="Logo de la Universidad de Jaén" class="university-logo">
+            </div>
+        </footer>
+
+
+        <script src="{{ url_for('static', filename='js/codigo.js') }}"></script>    <!-- Enlace al archivo JS externo -->
+    </body>
+</html>
